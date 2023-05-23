@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesLab</string>
+    <string name="text">Выбери цвет</string>
+    <string name="red">Красный</string>
+    <string name="beige">Бежевый</string>
+    <string name="green">Зелёный</string>
+</resources>
